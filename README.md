@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Yihang Chen — Computer Vision Research / LLM Application Development" width="100%">
+  <img src="assets/header-light.svg" alt="Yihang Chen" width="100%">
 </picture>
 
 立命館大学大学院 情報理工学研究科の修士課程で、コンピュータビジョンを研究しています。<br>

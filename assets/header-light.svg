@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200" role="img" aria-labelledby="t">
-<title id="t">Yihang Chen — Computer Vision Research / LLM Application Development</title>
+<title id="t">Yihang Chen</title>
 <defs>
 <linearGradient id="fx" gradientUnits="userSpaceOnUse" x1="430" y1="0" x2="650" y2="0">
 <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/>
@@ -16,7 +16,6 @@
 <path d="M811.7 10.0C814.0 9.9 818.3 9.5 822.0 10.1C825.7 10.6 830.7 12.0 834.0 13.3C837.3 14.6 839.6 15.9 842.0 18.0C844.4 20.1 847.3 23.0 848.6 26.0C849.9 29.0 850.6 32.7 849.8 36.0C849.1 39.3 846.2 43.3 844.0 46.0C841.8 48.7 839.2 50.2 836.5 52.0C833.9 53.8 831.0 55.4 828.0 57.0C825.0 58.7 821.7 60.4 818.7 62.0C815.7 63.6 812.8 65.2 810.0 66.9C807.2 68.6 804.7 70.2 802.0 72.2C799.3 74.2 796.6 76.4 794.0 78.7C791.4 81.0 788.8 83.7 786.4 86.0C784.1 88.3 782.3 90.3 780.0 92.7C777.7 95.0 775.2 97.7 772.9 100.0C770.6 102.3 768.5 104.4 766.0 106.6C763.5 108.9 760.7 111.4 758.0 113.5C755.3 115.7 752.7 117.7 750.0 119.6C747.3 121.5 744.8 123.2 742.0 124.9C739.2 126.6 736.1 128.4 733.1 130.0C730.1 131.6 727.2 133.1 724.0 134.6C720.8 136.1 717.3 137.6 714.0 138.9C710.7 140.3 707.3 141.6 704.0 142.8C700.7 144.0 697.7 145.0 694.0 146.2C690.3 147.3 685.7 148.7 682.0 149.7C678.3 150.8 675.7 151.5 672.0 152.2C668.3 153.0 664.3 154.0 660.0 154.4C655.7 154.8 650.0 155.1 646.0 154.6C642.0 154.1 638.4 153.3 636.0 151.2C633.6 149.1 631.8 145.4 631.5 142.0C631.2 138.6 632.9 134.2 634.0 130.6C635.1 127.1 636.6 124.0 638.0 120.9C639.4 117.8 640.7 115.1 642.3 112.0C644.0 108.9 646.1 105.3 648.0 102.3C649.9 99.3 651.9 96.6 653.9 94.0C655.9 91.4 657.8 89.2 660.0 86.9C662.2 84.6 664.8 82.2 667.3 80.0C669.8 77.8 672.1 76.0 674.9 74.0C677.7 72.0 681.2 69.8 684.0 68.1C686.8 66.4 689.0 65.2 692.0 63.7C695.0 62.2 698.7 60.5 702.0 59.0C705.3 57.5 708.7 56.2 712.0 54.9C715.3 53.6 718.7 52.4 722.0 51.2C725.3 50.0 728.7 48.8 732.0 47.6C735.3 46.4 738.7 45.3 742.0 44.0C745.3 42.7 748.7 41.4 752.0 39.9C755.3 38.3 759.0 36.5 762.0 34.9C765.0 33.2 767.3 31.8 770.1 30.0C772.9 28.2 776.1 26.0 779.0 24.0C782.0 22.0 785.1 19.9 788.0 18.3C790.9 16.6 793.1 15.3 796.4 14.0C799.7 12.7 805.4 11.2 808.0 10.5C810.6 9.9 809.4 10.1 811.7 10.0Z" stroke="#c2643f" stroke-width="1.5"/>
 <circle cx="714.0" cy="96.0" r="3" fill="#c2643f" stroke="none"/>
 </g></g>
-<rect x="2" y="50" width="28" height="3" rx="1.5" fill="#c2643f"/>
-<text x="0" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="48" font-weight="600" letter-spacing="-0.6" fill="#1f2328">Yihang Chen</text>
-<text x="2" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="17" letter-spacing="0.15" fill="#59636e">Computer Vision Research<tspan dx="9" dy="0" fill="#c2643f">·</tspan><tspan dx="9">LLM Application Development</tspan></text>
+<rect x="2" y="70" width="28" height="3" rx="1.5" fill="#c2643f"/>
+<text x="0" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="48" font-weight="600" letter-spacing="-0.6" fill="#1f2328">Yihang Chen</text>
 </svg>
