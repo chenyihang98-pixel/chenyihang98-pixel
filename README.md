@@ -12,7 +12,7 @@
 - **開発で使っている技術**　TypeScript / React / Electron / three.js / LangGraph / Ollama
 - **研究で使っている技術**　Python / PyTorch
 - **開発ツール**　Claude Code / Codex / GitHub
-- **語学**　中国語（母語）/ 日本語（JLPT N2）
+- **語学**　中国語（母語）/ 日本語
 
 ## 主な開発経験
 
