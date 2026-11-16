@@ -31,7 +31,7 @@
 ### 生成 AI を使った制作ツールの開発
 
 - **概要**　　　AI で生成した 3D モデルを、Unity で使えるところまで仕上げる Windows アプリ（無料で公開）
-- **内容**　　　生成、ポリゴン削減、リギング、モーション付け、Unity への送信までを 1 つにまとめました。Tripo・Meshy・Tencent Hunyuan の生成サービスにつながります。送信前に費用の目安を出し、失敗したタスクは二重課金なしでやり直せます。
+- **内容**　　　生成、ポリゴン削減、リギング、モーション付け、Unity への送信を 1 つにまとめました。生成は Tripo・Meshy・Tencent Hunyuan に対応しています。送信前に費用の目安を出し、失敗したタスクは二重課金なしでやり直せます。
 - **使用技術**　TypeScript / React / Electron / three.js
 - **リンク**　　[Modelwright の紹介](https://github.com/chenyihang98-pixel/Modelwright/blob/main/README.ja.md) · [デモ動画](https://youtu.be/fLYk25TaxHo)
 
