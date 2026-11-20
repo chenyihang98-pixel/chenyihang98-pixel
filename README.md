@@ -61,6 +61,7 @@
 - **自分がやったこと**　研究課題の設定から、手法の検討・実装、データの作成、実験・評価、論文執筆まで一貫して担当しました。
 - **使用技術**　Python / SAM / Adapter-based Fine-tuning / Depth Estimation / Edge Prior / Semantic Segmentation
 - **論文**　[ReliefSAM: A Geometry-Augmented Multi-prior Adapter for Bas-Relief Segmentation](https://doi.org/10.1007/978-3-032-37211-6_24)
+- **掲載**　ECCV 2026（筆頭著者）
 
 <br>
 
